@@ -66,7 +66,7 @@ Este proyecto implementa un modelo de **Vision Transformer (ViT)** para la **cla
 ## Uso
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/Vision-Transfomers-and-Fruits-Dataset.git
+   git clone https://github.com/Angello5/Vision-Transfomers-and-Fruits-Dataset.git
    cd Vision-Transfomers-and-Fruits-Dataset
 2. Crear entorno Conda
     ```bash 
